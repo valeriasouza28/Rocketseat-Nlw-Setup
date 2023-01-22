@@ -25,9 +25,9 @@ export default function App() {
   }
 
   return (
-    <View>
-    <Home/>
-      <StatusBar barStyle="light-content" backgroundColor="transparent" translucent />
-    </View>
+      <View>
+      <Home/>
+        <StatusBar barStyle="light-content" backgroundColor="transparent" translucent />
+      </View>
   );
 }
